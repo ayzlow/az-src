@@ -1,3 +1,3 @@
   ## Installation
 > [!WARNING]
-> Il est nécessaire d'installer la version release du projet.
+> Il est nécessaire d'installer la dernière version du projet.
